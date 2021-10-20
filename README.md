@@ -3,3 +3,4 @@
 2.  Multiple Linear Regression
 3. Logistic Regression
 4. Decision Tree Regression
+5. 5. Random Forest Regression
