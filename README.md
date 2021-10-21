@@ -5,3 +5,4 @@
 4. Decision Tree Regression
 5. Random Forest Regression
 6. Polynomial Regression
+7. Decision Tree Classification
