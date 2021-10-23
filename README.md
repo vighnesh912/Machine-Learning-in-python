@@ -7,3 +7,4 @@
 6. Polynomial Regression
 7. Decision Tree Classification
 8. Random Forest Classification
+9. K Nearest Neighbor
