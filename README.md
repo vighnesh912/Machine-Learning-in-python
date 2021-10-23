@@ -9,3 +9,4 @@
 8. Random Forest Classification
 9. K Nearest Neighbor
 10. Naive Bayes Classification
+11. Support Vector Machine
