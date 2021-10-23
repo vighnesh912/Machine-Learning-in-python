@@ -8,3 +8,4 @@
 7. Decision Tree Classification
 8. Random Forest Classification
 9. K Nearest Neighbor
+10. Naive Bayes Classification
