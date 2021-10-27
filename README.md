@@ -10,3 +10,4 @@
 9. K Nearest Neighbor
 10. Naive Bayes Classification
 11. Support Vector Machine
+12. K Means Clustering
